@@ -24,22 +24,15 @@
     <!-- End of Page Title -->
 
     <!-- Service Details -->
-    <section class="pt-120 pb-120 light-bg">
+    <section class="pt-120 pb-50 light-bg">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Enjoy high speed internet up to 1Gbps download speed from <span>$05.50/m</span></h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-                        <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
-                        <ul class="rubik list-unstyled m-0 clearfix">
-                            <li>WiFi control</li>
-                            <li>10 e-mail accounts</li>
-                            <li>Pro Installation</li>
-                            <li>Wall-to-Wall Fast WiFi</li>
-                            <li>Serviney Security</li>
-                            <li>Money back Guarantee</li>
-                        </ul>
+                        <p>Non-operational or missing home button can be super irritating when you're attempting to use your devices dependably. We keep all parts of a variety of replacement home button in stock to ensure your gadget is repaired accurately and back with you in a brief instant.</p>
+                        <p>Since we tend to utilize the best quality parts, we give our clients a time of interest for repairs. Visit at XYZ to make your Home Button Repaired.</p>
+
+                        
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -51,6 +44,29 @@
         </div>
     </section>
     <!-- End of Service Details -->
+
+    <section class="pb-30 light-bg">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                        
+                        <h3>
+                            HOW TO EXTEND THE LIFESPAN OF YOUR HOME BUTTON
+                        </h3>
+                        <ul class="rubik list-unstyled m-0 clearfix">
+                            <li>We recommend the present circumstance over the best weight on the home catch. Everything considered they're particularly delicate that give the snapping sensation. A little move can make the home button quit working reliably. </li>
+                            <li>Keep all liquid detached from your gadget because of water can fundamentally assist into your gadget through your home button space wherever your charging port is, executing damaged to the parts.</li>
+                            <li>Pro Installation</li>
+                            <li>Wall-to-Wall Fast WiFi</li>
+                            <li>Serviney Security</li>
+                            <li>Money back Guarantee</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     
 

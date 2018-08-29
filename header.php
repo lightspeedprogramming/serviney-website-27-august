@@ -23,6 +23,8 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/colors/theme-color-1.css">
     <link rel="stylesheet" href="css/custom.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 </head>
 
 <body>
@@ -31,29 +33,23 @@
 
     <!-- Main header -->
     <header class="header">
+        <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
+              <div class="container">
+                <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:+x-xxxx-xx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+              </div>
+            </div>
        
 
-        <div class="main-header" data-animate="fadeInUp" data-delay=".9">
-				<!--<div class="header-top" data-animate="fadeInDown" data-delay=".5">
-					<div class="container">
-						<div class="row align-items-center">
-							<div class="col-lg-12 col-md-12">
-								<div class="header-call text-center">
-								<a href="tel:+1234567890">(+1) 234-567-8900</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>-->
-		
+        <div class="main-header">		
 		
             <div class="container">
+
                 <div class="row align-items-center">
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-9">
                         <!-- Logo -->
-                        <div class="logo">
+                        <div class="logo" style="padding-left: 20px;">
                             <a href="index.php">
-                                <img src="img/logo.png" data-rjs="2" alt="VPNet">
+                                <h2>Xyz</h2>
                             </a>
                         </div>
                     </div>

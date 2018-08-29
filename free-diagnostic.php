@@ -27,17 +27,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h2>Enjoy high speed internet up to 1Gbps download speed from <span>$05.50/m</span></h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-                        <p><i>We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</i></p>
-                        <ul class="rubik list-unstyled m-0 clearfix">
-                            <li>WiFi control</li>
-                            <li>10 e-mail accounts</li>
-                            <li>Pro Installation</li>
-                            <li>Wall-to-Wall Fast WiFi</li>
-                            <li>Serviney Security</li>
-                            <li>Money back Guarantee</li>
-                        </ul>
+                        
+                        <p>We perform Free Diagnostic test to isolate events and for key reasons. One, for your security and separating decision to ensure your gadget is working, most perfect circumstance condition. At XYZ, we tend to run a 'Pre-Repair' intelligent test that the state of your telephone is clear before the repair. After, our specialists run a 'Post-Repair' test at our recuperation station once the repair. We tend to utilize this to ensure the repair was done totally. We tend to play out this advantage before of you before giving the gadget hand over. This can be astounding in light of guarantee that your gadget has been repaired and is running, most perfect circumstance condition. For what reason should our clients dependably get a three-advance demonstrative test?</p>
+
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -50,6 +42,41 @@
     </section>
     <!-- End of Service Details -->
 
+    <section class="pt-55 pb-120 light-bg">
+        <div class="container">
+            
+        
+        <div class="row">
+            <div class="col-lg-4">
+                <h4>Pre-Repair Diagnostic:</h4>
+                
+                <p>
+                    Our specialists can play out this test to affirm the burden there and estimation of repair. At XYZ, our authorities limit by taking a gander at each a touch of your gadget before repair. We tend to utilize this to our client's paying for the right broken half to get supplanted. 
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <h4>
+                            Post-Repair Diagnostic:
+                        </h4>
+
+                        <p>
+                            Once the repair is done, one of our master experts runs another full conclusive Analysis. This guarantees the issue has been settled and is working in consummate condition. This trademark is essential to demand the repair was done truly and prepared to effortlessly complete the Pre-Delivery test.
+                        </p>
+
+            </div>
+            <div class="col-lg-4">
+                <h4>
+                            Pre-Delivery Diagnostic:
+                        </h4>
+
+                        <p>
+                            This third and last test is done with our customer before giving the gadget gave over. The motivation behind this is reliably to raise you that the repair was done appropriately
+                        </p>
+            </div>
+        </div>
+
+        </div>
+    </section>
     
 
 

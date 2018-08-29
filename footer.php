@@ -4,52 +4,64 @@
         <div class="footer-widgets light-bg border-top pt-80 pb-50">
             <div class="container">
                 <div class="row">
-                    <!-- Footer Widget -->
-                    <div class="col-lg-6 col-sm-6">
-                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".1">
-                            <h3 class="h4">Contact Us</h3>
-                            <div class="contact-widget-content">
-                                <p>Sed ut perspiciatis unde omnis natus vitae dicta sunt explicabo.</p>
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">(+1) 234-567-890</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-envelope-o"></i>
-                                        <a href="mailto:serviney.demo@fakemail.com">serviney.demo@fakemail.com</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-map-marker"></i>
-                                        <span>784/A Zirtoli Bazar, Begumgonj, Noakhali-3800, BD</span>
-                                    </li>
+                    
+                    <!--refund privacy terms-->
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".3">
+                            <h3 class="h4">Our Policy</h3>
+                            <div class="menu-wrap">
+                                <ul class="menu">
+                                    <li><a href="privacy.php">Privacy Policy</a></li>
+                                    <li><a href="refund.php">Refund Policy</a></li>
+                                    <li><a href="terms.php">Terms & Condition</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <!-- End of Footer Widget -->
+                    <!--refund privacy terms-->
 
                     <!-- Footer Widget -->
-                    <div class="col-lg-6 col-sm-6">
+                    <div class="col-lg-4 col-sm-6">
                         <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".3">
                             <h3 class="h4">Useful Links</h3>
                             <div class="menu-wrap">
                                 <ul class="menu">
-                                    <li><a href="#">Pay My Bills</a></li>
-                                    <li><a href="#">Manage My Account</a></li>
-                                    <li><a href="#">Constant Guard</a></li>
-                                    <li><a href="#">Cable Customer Agreement</a></li>
-                                    <li><a href="#">Move Services</a></li>
-                                    <li><a href="#">Manage Users & Alerts</a></li>
-                                    <li><a href="#">Log Out</a></li>
-                                    <li><a href="#">Internet Help</a></li>
+                                    <li><a href="home-button-repair.php">Home Button Repair</a></li>
+                                    <li><a href="liquid-damage.php">Liquid Damage Repair</a></li>
+                                    <li><a href="network-failure.php">Network Failure</a></li>
+                                    <li><a href="speaker-repair.php">Speaker Repair</a></li>
+                                    <li><a href="wireless-connectivity.php">Wireless Connectivity</a></li>
+                                    <li><a href="screen-repair.php">Screen Repair</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <!-- End of Footer Widget -->
 
-                   
+                   <!-- Footer Widget -->
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".1">
+                            <h3 class="h4">Contact Us</h3>
+                            <div class="contact-widget-content">
+                               
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <a href="tel:+x-xxx-xxx-xxxx">(+x) xxx-xxx-xxx</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-envelope-o"></i>
+                                        <a href="mailto:contact@domain.com">conatct@domain.com</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-map-marker"></i>
+                                        <span>000/A xyz Bazar, xyz, xyz-1234, xyz</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of Footer Widget -->
                     
                 </div>
             </div>
@@ -59,9 +71,9 @@
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Copyright -->
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <div class="copyright-text text-center text-md-left">
-                            <p class="mb-md-0">&copy; 2018 Serviney. All rights reserved.</p>
+                            <p class="mb-md-0 text-center">&copy; Xyz. All rights reserved.</p>
                         </div>
                     </div>
 

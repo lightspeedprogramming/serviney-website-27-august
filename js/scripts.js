@@ -96,7 +96,7 @@ We may release future updates so it will overwrite this file. it's better and sa
         
         /* 05: Main slider
         ==============================================*/
-        
+        /*
         var mainSlider = new Swiper('.main-slider', {
             loop: true,
             spaceBetween: 1,
@@ -138,7 +138,7 @@ We may release future updates so it will overwrite this file. it's better and sa
             });
         });
 
-        
+        */
         /* 06: Review slider
         ==============================================*/
         

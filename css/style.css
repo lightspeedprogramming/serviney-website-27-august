@@ -133,6 +133,8 @@ h6, .h6 { font-size: 0.875rem; }
 p {
     line-height: 1.8;
     margin-bottom: 1.6rem;
+    color: #202e39;
+    font-size: 1.1rem;
 }
 body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -713,7 +715,7 @@ label input[type=radio] {
 .main-header.stuck {
     background: #fff;
     position: fixed;
-    top: 0;
+    top: 14px;
     box-shadow: 0 0 0.625rem rgba(0,0,0,0.15);
     width: 100%;
 }
@@ -1080,7 +1082,7 @@ label input[type=radio] {
 }
 .service-details ul li {
     float: left;
-    width: 50%;
+    width: 100%;
     color: #202e39;
     position: relative;
     padding-left: 20px;
@@ -2566,4 +2568,109 @@ a.tip:hover {
     display: block;
     margin-bottom: 30px;
     padding: 10px 15px;
+}
+
+
+.main-content {
+    padding: 70px 0 30px;
+}
+
+/*Refund-Terms-privacy*/
+  
+.blog-single-field {
+    padding: 120px 0 70px;
+
+}
+
+.blog-single-col h2
+{
+  font-size: 28px;
+  color: #424242;
+  font-weight: bold;
+  font-family: Rubik-Medium;
+}
+
+.blog-single-col h3 {
+    margin: 15px 0;
+    font-size: 22px;
+}
+
+
+.promo-parallax {
+    background-size: cover;
+    z-index: 1;
+    position: relative;
+    height: 30vh;
+}
+
+.breadcrumb-wrap {
+    padding: 70px 0 16px;
+    text-align: center;
+}
+
+.page-title {
+    margin: 0;
+    text-transform: capitalize;
+    color: #f8f9fa;
+    font-weight:bolder;
+    text-align: left;
+    
+}
+
+.breadcrumb-item {
+    font-family: Roboto-Medium;
+    text-transform: capitalize;
+}
+
+.breadcrumb > .active {
+    color: #08d5b3;
+}
+
+@media only screen and (max-width:1024px)
+{
+  div.promo-parallax
+  {
+    height:21vh;
+  }
+}
+
+@media only screen and (max-width:768px)
+{
+  div.promo-parallax
+  {
+    height: 27vh;
+  }
+}
+
+@media only screen and (width: 1019px)
+{
+  div.promo-parallax
+  {
+    height: 50vh;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 767px)
+{
+  div.promo-parallax
+  {
+    height: 40vh;
+  }
+  div.breadcrumb-wrap
+  {
+    padding: 94px 0px 16px;
+  }
+}
+
+@media only screen and (max-width: 360px)
+{
+  div.promo-parallax
+  {
+    height:52vh;
+  }
+}
+
+.services-parra-color-index-page p
+{
+    color: #fff;
 }

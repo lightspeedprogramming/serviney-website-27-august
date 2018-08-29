@@ -29,19 +29,19 @@
                         <div class="page-contacts-widget">
                             <h3 class="h4">Contact Us</h3>
                             <div class="contact-widget-content">
-                                <p>Sed ut perspiciatis unde omnis natus vitae dicta sunt explicabo.</p>
+                               
                                 <ul class="list-unstyled">
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">(+1) 234-567-890</a>
+                                        <a href="tel:+xxx-xxx-xxxx">(+x) xxx-xxx-xxx</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-envelope-o"></i>
-                                        <a href="mailto:serviney.demo@fakemail.com">serviney.demo@fakemail.com</a>
+                                        <a href="mailto:conatct@domain.com">conatct@domain.com</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-map-marker"></i>
-                                        <span>784/A Zirtoli Bazar, Begumgonj, Noakhali-3800, BD</span>
+                                        <span>xyz/A xyz Bazar, xyz, xyz-0000</span>
                                     </li>
                                 </ul>
                             </div>
